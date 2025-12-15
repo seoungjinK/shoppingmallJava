@@ -78,8 +78,8 @@ src
 * **스켈레톤 UI:** 데이터 로딩 중 뼈대 UI를 보여주어 이탈률 감소 유도.
 * **결제 연동:** **PortOne API**를 연동하여 실제 결제 프로세스 구현.
 
-##  실행 방법 (How to run)
-1.  MySQL에 `shoppingmall_db` 스키마 생성
-2.  `git clone ...`
-3.  Backend: `application.properties` DB 정보 수정 후 실행
-4.  Frontend: `npm install` -> `npm run dev`****
+## 🎥 시연 영상 (Demo Video)
+
+> 아래 이미지를 클릭하면 프로젝트 시연 영상을 유튜브에서 확인할 수 있습니다.
+
+[![TheMoon 시연 영상](https://youtu.be/gSduEjiMkls/maxresdefault.jpg)](https://youtu.be/gSduEjiMkls)
