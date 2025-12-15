@@ -4,10 +4,6 @@
 사용자에게 직관적인 쇼핑 경험을 제공하고, 관리자에게는 효율적인 상품 관리 기능을 제공하는 **풀스택 쇼핑몰 서비스**입니다.
 **트랜잭션 처리, N+1 문제 해결, 보안(JWT)** 등 백엔드의 핵심 기술적 챌린지를 해결하는 데 집중했습니다.
 
-##  시연 영상
-![시연영상](https://youtu.be/gSduEjiMkls)
-https://youtu.be/gSduEjiMkls
-
 ## 🛠️ 기술 스택 (Tech Stack)
 * **Backend:** Java 17, Spring Boot 3.2, Spring Security, JPA, QueryDSL, MySQL
 * **Frontend:** React, Vite, Recoil, Axios, Tailwind CSS, MUI
